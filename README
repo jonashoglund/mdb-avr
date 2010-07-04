@@ -1,0 +1,5 @@
+
+Setup:
+
+sudo apt-get intall gcc-avr avr-libc avrdude
+
